@@ -9,7 +9,7 @@ No external libraries needed.
 
 ![Untitled video to gif (1)](https://github.com/fspiri/rubik/assets/81576273/db3c8043-529a-4a79-b5c7-15fdf6eaa725)
 ***
-To run the app open one of the code classes withing the Processor IDE.
+To run the app open one of the code classes withing the Processing IDE.
 ***
 Rotation animations still to be implemented. 
 
